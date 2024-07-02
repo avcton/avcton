@@ -14,12 +14,13 @@
 
 <!-- Intro Confetti -->
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;">
 
 <!-- Intro Highlights -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=200&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Data+Scientist;5%2B+years+of+coding+experience;Always+learning+new+stuff" alt="Typing SVG" /></a>
+  <img width="50%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=200&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Data+Scientist;5%2B+years+of+coding+experience;Always+learning+new+stuff" alt="Typing SVG" />
 </p>
 
 <!-- Bio -->
