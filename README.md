@@ -52,39 +52,70 @@
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
+<br>
+
+<!-- Current Status -->
+
+### Work and Learning
+- 🚀 Currently innovating at my **Final Year Project (FYP)**
+- 📚 Deepening my knowledge in **LLMs**
+
+### Projects and Portfolio
+- 🌐 Explore my work at [avcton.github.io/Projects](https://avcton.github.io/Projects/)
+- 💼 Discover my portfolio at [avcton.github.io](https://avcton.github.io/)
+
+### Skills and Expertise
+- 💡 Expertise in **C, C++, Python, Flutter, React, NodeJS and Deep Learning**
+- 🔧 Proficient in **Tensorflow, Keras and Generative AI**
+
+### Engagement and Collaboration
+- 🤝 Let's collaborate on **open source projects**
+- 🚀 Always excited to **work on new challenges**
+
+<!-- Socials -->
+
+<h2 align="center">Connect Through</h2>
+<p align="center">
+<a href="https://twitter.com/avcton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avcton" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avcton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avcton" height="30" width="40" /></a>
+<a href="https://instagram.com/i__m.ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i__m.ahmad" height="30" width="40" /></a>
+<a href="https://avcton.github.io/sitemap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://avcton.github.io/sitemap" height="30" width="40" /></a>
+</p>
+<br>
+
 <!-- Lanuage and Tools -->
 
-### Languages and Tools
+<h2 align="center">Languages and Tools</h2>
 
-- Frontend
+### Frontend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
   </a>
 </p>
 
-- Backend
+### Backend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
   </a>
 </p>
 
-- Database
+### Database
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
-- Cloud Servers
+### Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
   </a>
 </p>
 
-- Tools
+### Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
