@@ -85,41 +85,31 @@
 
 <!-- Lanuage and Tools -->
 
-<h2 align="center">Language, Frameworks, Databases and Tools</h2>
+<h2 align="center">Frameworks, Databases and Tools</h2>
 
 ### Frontend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,flutter,redux,tailwind,materialui,vite,sass" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,flutter,redux,tailwind,materialui,vite,sass" />
 </p>
 
 ### Backend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,nodejs,flask,express,dotnet,django" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,flask,express,dotnet,django" />
 </p>
 
 ### Databases
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
 </p>
 
 ### Cloud Servers
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,appwrite" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,appwrite" />
 </p>
 
-### Tools
+### Development Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,xd,idea,vscode,postman,linux,arduino,androidstudio,anaconda,opencv,ps,pug,selenium,sklearn,tensorflow," />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,xd,idea,vscode,postman,linux,arduino,androidstudio,anaconda,opencv,ps,pug,selenium,sklearn,tensorflow," />
 </p>
 
 <br/>
