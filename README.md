@@ -14,7 +14,7 @@
 
 <!-- Intro Confetti -->
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;">
 
 <!-- Intro Highlights -->
 
@@ -128,10 +128,6 @@
   <a align="center"href="https://github.com/avcton">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=avcton&theme=radical&border=7F3FBF&background=0D1117" alt="avcton's gitHub streak"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/avcton"><img alt="avcton's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=avcton&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </p>
 
 <p align="center">
