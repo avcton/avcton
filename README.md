@@ -20,7 +20,7 @@
 <!-- Intro Highlights -->
 
 <p align="center">
-  <img width="50%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=200&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Data+Scientist;5%2B+years+of+coding+experience;Always+learning+new+stuff" alt="Typing SVG" />
+  <img width="50%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=200&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Data+Scientist;6%2B+years+of+coding+experience;Always+learning+new+stuff" alt="Typing SVG" />
 </p>
 
 <!-- Bio -->
@@ -125,11 +125,15 @@
   </a>
 </p>
 
+<!-- Streak stats down for now
+
 <p align="center">
   <a align="center"href="https://github.com/avcton">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=avcton&theme=radical&border=7F3FBF&background=0D1117" alt="avcton's gitHub streak"/>
   </a>
 </p>
+
+ -->
 
 <p align="center">
   <a href="https://github.com/avcton">
