@@ -48,9 +48,9 @@
 <!-- Current Status -->
 
 ### Work and Learning
-- 🚀 ML Engineer at **Dubizzle Labs** — voice AI agents, automation pipelines, ML infrastructure
-- 📚 Deepening expertise in **LLMs, Voice AI, and Agentic Systems**
-- 🎓 BSc Data Science, FAST NUCES Lahore — Summa Cum Laude, Gold Medal
+- 🚀 ML Engineer at **Dubizzle Labs** ~ voice AI agents, automation pipelines, ML infrastructure
+- 📚 Deepening expertise in **LLMs, Gen AI, and Agentic Systems**
+- 🎓 BSc Data Science, FAST NUCES Lahore ~ Summa Cum Laude, Gold Medal
 
 ### Projects and Portfolio
 - 🌐 Explore my work at [avcton.github.io/Projects](https://avcton.github.io/Projects/)
